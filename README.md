@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./assets/logo.png" alt=""  width="400px"/></p>
+
 
 # 🎮 SHADOW STAKE SAGA - Next-Gen Blockchain Dungeon Crawler
 
