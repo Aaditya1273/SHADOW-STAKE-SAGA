@@ -1,0 +1,12 @@
+[package]
+name = "shadow_stake_saga"
+edition = "2024.beta"
+license = "MIT"
+authors = ["Shadow Stake Saga Team"]
+
+[dependencies]
+One = { git = "https://github.com/one-chain-labs/onechain.git", subdir = "crates/sui-framework/packages/one-framework", rev = "main" }
+
+[addresses]
+shadow_stake_saga = "0x0"
+game = "0x0"
