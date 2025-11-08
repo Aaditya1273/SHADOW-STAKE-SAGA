@@ -19,6 +19,52 @@ Explore mysterious dungeons, collect treasures, defeat fearsome enemies, and rac
 ✅ **Verifiable Gameplay** - All transactions visible on OneChain explorer
 ✅ **OneWallet Integration** - Seamless wallet connection and transaction signing
 
+## 🎮 How to Play
+
+### ⌨️ Controls
+
+**Movement:**
+- **Arrow Keys** or **WASD** - Move your character in 4 directions
+- Navigate through dungeon rooms and corridors
+
+**Combat:**
+- **Spacebar** - Basic melee attack (close range)
+- Get close to enemies and press Space to attack
+- Each attack has a cooldown period
+
+**Special Attacks:**
+- **Ctrl + Shift + Space** - Cyclone Attack (360° area damage)
+- Damages all enemies around you
+- Use strategically when surrounded!
+
+**Game Controls:**
+- **ESC** - Pause/Resume game
+- **Enter** - Confirm selections in menus
+
+### ⚔️ Combat System
+
+**How to Attack:**
+1. Move close to an enemy (within attack range)
+2. Press **Spacebar** to perform melee attack
+3. Wait for cooldown before next attack
+4. Use **Cyclone Attack** when surrounded by multiple enemies
+
+**Enemy Behavior:**
+- Enemies patrol and chase when they spot you
+- Different enemies have different attack patterns
+- Ranged enemies keep distance and shoot
+- Melee enemies rush toward you
+
+**Lives System:**
+- You start with **3 lives** ❤️❤️❤️
+- Lose 1 life when health reaches 0
+- Respawn at dungeon start with full health
+- Game Over when all 3 lives are lost
+
+### 🎯 Objective
+
+Find the **stairs** in each level to advance to the next dungeon. Each level gets progressively harder with more enemies and larger dungeons!
+
 ## ⚙️ How It Works
 
 ### 🕹️ Gameplay Mechanics
@@ -54,6 +100,59 @@ Explore rooms, defeat enemies, and find the stairs to advance to the next level.
 - Defeat enemies to boost your score.
 - Collect rare loot for extra points and perks.
 - 💀 3 Lives: When your three lives are up, Game Over! Save your scores and records on-chain to earn perks for future runs.
+
+---
+
+## 🔗 Why Blockchain for Gaming?
+
+### 🎯 **True Ownership**
+Your game scores and achievements are stored on the **OneChain blockchain**, meaning:
+- ✅ **You own your data** - Not stored on centralized servers that can be shut down
+- ✅ **Permanent records** - Your achievements are immutable and permanently preserved
+- ✅ **Verifiable scores** - Anyone can verify your scores on the blockchain explorer
+- ✅ **No cheating** - All scores are validated by smart contracts
+
+### 🏆 **Transparent Leaderboards**
+- **Real-time rankings** fetched directly from blockchain events
+- **No fake scores** - Every score is backed by a blockchain transaction
+- **Global competition** - Compete with players worldwide on a trustless platform
+- **Historical data** - View complete game history for any player
+
+### 💰 **Play-to-Earn Potential**
+- Scores stored on-chain can be used for future token rewards
+- **$SSS Token integration** ready for minting based on performance
+- Staking system planned for earning passive rewards
+- NFT achievements for milestone completions
+
+### 🔐 **Security & Trust**
+- **Smart contracts** handle all game logic validation
+- **No central authority** can manipulate scores or rankings
+- **Wallet-based authentication** - No passwords to remember or leak
+- **Gas fees** ensure only serious players submit scores (anti-spam)
+
+### 🌐 **Cross-Platform Future**
+- Scores accessible from any device with blockchain access
+- **Interoperability** - Potential to use achievements across multiple games
+- **Community governance** - Players can vote on game changes via DAO
+- **Open ecosystem** - Developers can build on top of our game data
+
+### 📊 **How It Works:**
+
+1. **Play the game** → Earn score by defeating enemies
+2. **Game Over** → Click "Store Results" button
+3. **OneWallet popup** → Review transaction and sign
+4. **Blockchain transaction** → Score stored on OneChain via Move smart contract
+5. **Event emitted** → `GameCompleted` event with your score
+6. **Leaderboard updates** → Your score appears in global rankings
+7. **Verifiable** → View your transaction on OneChain explorer
+
+**Transaction Example:**
+```
+Package: 0x3d16067dbdb2afe434f636d860fd02400ef57421def3b89ee424f9c3b354ec45
+Function: shadow_stake_saga_game::store_score
+Arguments: [game_id, score, rounds, timestamp]
+Gas Fee: ~0.001 OCT
+```
 
 ---
 
