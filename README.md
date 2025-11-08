@@ -1,5 +1,5 @@
 <p align="center">
-
+<img width="1408" height="736" alt="ogOrg" src="https://github.com/user-attachments/assets/e3a050b0-a6e8-4d4f-9813-1bc2244bcd5e" />
 
 # 🎮 SHADOW STAKE SAGA - Next-Gen Blockchain Dungeon Crawler
 
