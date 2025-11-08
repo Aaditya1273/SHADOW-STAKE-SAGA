@@ -104,46 +104,6 @@ This game features **35+ new files** with comprehensive Web3 integrations and cu
 
 ## Screenshots 📸
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <br>
-      <img src="./assets/1.png" alt="" >
-    </td>
-    <td valign="top" width="50%">
-      <br>
-      <img src="./assets/2.png" alt="" >
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <br>
-            <img src="./assets/3.png" alt="" >
-    </td>
-    <td valign="top" width="50%">
-      <br>
-            <img src="./assets/4.png" alt="" >
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <br>
-            <img src="./assets/6.png" alt="" >
-    </td>
-  </tr>
-</table>
-
-## 🎥 Demo Video
-
-## 🎥 Demo Video
-
-[![Demo Video](https://github.com/Rahulsinghrawat18/SomniaVerse/blob/main/assets/logo.png)](https://www.youtube.com/watch?v=Y2xTYXtnVXM)
 
 ## Get Started 🚀
 
