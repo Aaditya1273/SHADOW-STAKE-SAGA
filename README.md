@@ -3,7 +3,7 @@
 
 # 🎮 SHADOW STAKE SAGA - Next-Gen Blockchain Dungeon Crawler
 
-Welcome to **SHADOW STAKE SAGA**, an infinite AI-powered procedural dungeon-crawling adventure where danger lurks around every corner! 🧙‍♂️⚔️ 
+Welcome to **SHADOW STAKE SAGA**, an infinite AI-powered procedural dungeon-crawling adventure where danger lurks around every corner!!! 🧙‍♂️⚔️ 
 
 Explore mysterious dungeons, collect treasures, defeat fearsome enemies, and race to find the stairs to escape to the next level! But beware—each level gets harder, and you only have 3 lives. Can you survive the darkness and climb to glory?
 
