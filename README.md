@@ -24,7 +24,8 @@ Explore mysterious dungeons, collect treasures, defeat fearsome enemies, and rac
 ✅ **Verifiable Gameplay** - All transactions visible on OneChain explorer
 
 ✅ **OneWallet Integration** - Seamless wallet connection and transaction signing
-
+## Pitch 
+![Pitch demo](https://gamma.app/docs/SHADOW-STAKE-SAGA-tzhqy75idlmb5gp?mode=doc)
 ## Gallery 
 
 ### Home Page
