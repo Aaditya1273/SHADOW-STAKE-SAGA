@@ -248,10 +248,15 @@ This game features **35+ new files** with comprehensive Web3 integrations and cu
 🎉 **ALL features are now implemented!**
 
 ✅ **Core Gameplay** - 5 enemy types, procedural dungeons, 3-lives system
+
 ✅ **OneChain Integration** - Scores stored on blockchain via Move contracts
+
 ✅ **Live Leaderboard** - Real-time rankings from blockchain events
+
 ✅ **Profile System** - View your game history from on-chain data
+
 ✅ **Transaction Signing** - Real blockchain transactions with gas fees
+
 ✅ **Verifiable Scores** - All scores visible on OneChain explorer
 
 ## Screenshots 📸
