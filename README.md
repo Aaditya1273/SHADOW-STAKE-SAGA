@@ -30,22 +30,44 @@ Explore mysterious dungeons, collect treasures, defeat fearsome enemies, and rac
 
 <img width="1914" height="944" alt="image" src="https://github.com/user-attachments/assets/0c6d993a-aa5f-4dcb-a36e-73eaef41e3ca" />
 
-###
+### Start Game 
 <img width="1906" height="939" alt="image" src="https://github.com/user-attachments/assets/b4de0548-98a7-4e2b-9437-96cec7b44285" />
+
+### Round 1 
+
 <img width="1902" height="936" alt="image" src="https://github.com/user-attachments/assets/ba85d929-c629-4ada-a8ed-388f8310113b" />
+
 <img width="1910" height="938" alt="image" src="https://github.com/user-attachments/assets/3a05819a-05be-4821-9e62-193115f9dafd" />
-basic malle attack
+### Basic malle attack
 <img width="1918" height="975" alt="image" src="https://github.com/user-attachments/assets/bf400e44-f138-4ec5-98b7-e617594f7354" />
+### Round 2 
 <img width="1920" height="976" alt="image" src="https://github.com/user-attachments/assets/9243dd1d-26fb-4ccb-bc21-5a54069effb1" />
+### Attack using space 
+
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b519c301-da0d-4e47-b633-632c69dc0e50" />
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/795d7779-288f-4282-8360-a3ac87b23f1a" />
+
 <img width="1919" height="1080" alt="image" src="https://github.com/user-attachments/assets/39392157-0b5a-4b86-8450-78dd524ac956" />
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4bd7c2ee-d1ca-4485-968d-9f3af3374930" />
+
+### Loose 
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e8c81077-c689-4bc0-b88a-5be638eb7b44" />
 
+### Game Over
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3cfa055c-0634-4093-9d3b-5e94a8e8f0f9" />
+
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/11efe35c-b1a5-47e0-9e0b-1377acd0185a" />
+
+### Leaderboard 
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/781e3b61-e901-4b70-bf4c-bec5f265970b" />
+
+### stake 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c5e03564-6f9e-43ef-a7c7-ad6997fc55a4" />
 
 
@@ -266,6 +288,5 @@ The application will be available at `http://localhost:3000`
 6. Play and store your scores on-chain!
 
 Happy Crawling! 🚪💎
-![Uploading image.png…]()
 
 ---
