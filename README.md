@@ -19,6 +19,9 @@ Explore mysterious dungeons, collect treasures, defeat fearsome enemies, and rac
 ✅ **Verifiable Gameplay** - All transactions visible on OneChain explorer
 ✅ **OneWallet Integration** - Seamless wallet connection and transaction signing
 
+## Gallery 
+<img width="1914" height="944" alt="image" src="https://github.com/user-attachments/assets/0c6d993a-aa5f-4dcb-a36e-73eaef41e3ca" />
+
 ## 🎮 How to Play
 
 ### ⌨️ Controls
