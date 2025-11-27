@@ -26,7 +26,11 @@ Explore mysterious dungeons, collect treasures, defeat fearsome enemies, and rac
 ✅ **OneWallet Integration** - Seamless wallet connection and transaction signing
 
 ## Gallery 
+### Home Page
+
 <img width="1914" height="944" alt="image" src="https://github.com/user-attachments/assets/0c6d993a-aa5f-4dcb-a36e-73eaef41e3ca" />
+
+###
 <img width="1906" height="939" alt="image" src="https://github.com/user-attachments/assets/b4de0548-98a7-4e2b-9437-96cec7b44285" />
 <img width="1902" height="936" alt="image" src="https://github.com/user-attachments/assets/ba85d929-c629-4ada-a8ed-388f8310113b" />
 <img width="1910" height="938" alt="image" src="https://github.com/user-attachments/assets/3a05819a-05be-4821-9e62-193115f9dafd" />
