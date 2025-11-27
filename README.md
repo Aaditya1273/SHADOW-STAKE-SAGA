@@ -12,11 +12,17 @@ Explore mysterious dungeons, collect treasures, defeat fearsome enemies, and rac
 ## 🌟 What Makes SHADOW STAKE SAGA Special?
 
 ✅ **AI-Generated Dungeons** - Neural networks create unique dungeons tailored to your play style
+
 ✅ **Adaptive Boss AI** - Bosses learn from your tactics and adapt in real-time
+
 ✅ **OneChain Blockchain** - Fully deployed on OneChain testnet
+
 ✅ **Real Blockchain Storage** - Scores stored on-chain via Move smart contracts
+
 ✅ **Live Leaderboard** - Fetch all players' scores from blockchain events
+
 ✅ **Verifiable Gameplay** - All transactions visible on OneChain explorer
+
 ✅ **OneWallet Integration** - Seamless wallet connection and transaction signing
 
 ## Gallery 
